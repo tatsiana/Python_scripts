@@ -6,8 +6,8 @@ import time
 
 """ inspired by http://peter-hoffmann.com/2012/simple-twitter-streaming-api-access-with-python-and-oauth.html"""
 # your twitter credentials
-consumer_key=""
-consumer_secret=""
+consumer_key = ""
+consumer_secret = ""
 access_key = ""
 access_secret = ""
 
